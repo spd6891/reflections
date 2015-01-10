@@ -1,0 +1,52 @@
+utilizar el comando diff -u
+para poder comparar dos archivos
+diferentes para poder encontrar 
+problemas
+
+diff muestra las diferencias entre
+dos archivos por medio del simbolo - y +
+indicando cual es la diferencia entre 
+los dos archivo comparados.
+
+Q: How could having easy access to the entire history of a file make
+you a more efficient programmer in the long term?
+
+A: if I have access to old versions of my program I easily could return and 
+correct some problem for change something that don't suppose to be change, in this way I'll save precious time.
+
+Q: What do you think are the pros and cons of manually choosing when 
+to create a commit, like you do in Git vs having versions automatically saved,
+like Google docs does?
+
+A: If the version automatically saves, avoid the risk of lose everything on a
+faliure of the system, in the other hand, it's very probable that the system
+saves to many versions that may not containt an importan change.
+
+when you save manually a version you are saving, what you think is an important
+change in the version, in this way you controls.
+
+the cons on this is that you could save too many or too few versions, make the
+work of searching a version more difficult
+
+Q: why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each file
+separateley?
+
+A: version control systems like Git were design with multifiles manipulation
+on mind, to help developers in their job 
+
+Q: How can you use the commands git log and git diff to view the history of
+files?
+
+A: with the command git log I can search a commit or view all the commits on
+the repository, and to compare two different commits I use the command 
+git diff commit_id_1 commit_id_2
+
+Q: How might using version control make you more confident to make changes
+that could break something?
+
+A: with the version you could find quckly the lines that cause the problem
+
+Q: Now that you have your workshop set up,what do you want to try using Git for?
+A: for some microcontrollers projects
+

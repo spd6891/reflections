@@ -1,0 +1,6 @@
+Q: What happens when you initializa a repository?
+   Why do you need to do it?
+
+A: Git creates a new directory without any commits
+A: I could run git status to view what files are in the same 
+   directory, but actually I must create a commit.
