@@ -4,3 +4,8 @@ Q: What happens when you initializa a repository?
 A: Git creates a new directory without any commits
 A: I could run git status to view what files are in the same 
    directory, but actually I must create a commit.
+
+Q: How is the staging area different from the working directory and
+   the repository? What value do you think it offers?
+A: the staging area is a place between the working directory and the 
+   repository, this offer a oportunity to create a repository
