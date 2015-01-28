@@ -9,3 +9,32 @@ Q: How is the staging area different from the working directory and
    the repository? What value do you think it offers?
 A: the staging area is a place between the working directory and the 
    repository, this offer a oportunity to create a repository
+
+Q: How can you use the staging area to make sure you have one commit per 
+   logical change?
+A: with git diff command, that shows the recent changes on the working
+   direcctory that way I can be sure y there is a logical change or not
+
+Q:What are some situtations when branches would be helpful in keeping you
+history organized? How would branches help?
+
+A: Branches are helpful for different versions of the main programm and they
+could be very useful on experimental situations.
+A: the use of branches could help me, separating the actual version from the
+experimental changes that I could make on a program
+
+Q:how do the diagrams help you visualze the branch structure=
+A: diagrams aren't too abstract, and its easier to visualize the structure of
+the branches
+
+Q:What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+A;When mergin one branche "disapear" and became the new master branch and the
+result its a file with the two parts of the file.
+
+Q: What are the pros and cons of Git's automatic merging vs always doing merges
+manually?
+A:Well Git compare the difference between files with their parent and decide
+what would contain the new file the cons are that in some point you'll find
+conflicts that you must decide if there are save or not, and obviously its much
+more work if you do it manually
