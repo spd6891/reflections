@@ -23,4 +23,12 @@ a: That way you know what changes are in the file since the last time
 How would you collaborate without using Git or GitHub? What would be easier, and
 what would be harder?
 A: one one could be via email or direct interchange of files. this has the
-problem of be to complex and very counfusing
+problem of be to complex and very counfusingt
+
+When would you want to make changes in a separate branch rather than directly in
+master ? What benefits does each approach have?
+A: I'd use separate brach when I want to make a major change and don't wanna
+damage the original, make changes directly on master is very simple but its
+quite dificult separate a new characterist from the master. by the other side
+with a separate branch I could experiment with new features without interfer
+with the master program, but its a bit difficult to mantain
