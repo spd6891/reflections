@@ -16,3 +16,6 @@ clone is when you make a copy of a repository (from GitHub or in your same
 		computer
 branches could be differents paths that one software can take,
 
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+a: That way you know what changes are in the file since the last time	
