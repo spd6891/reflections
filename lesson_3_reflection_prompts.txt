@@ -8,4 +8,11 @@ automatically stay up-to-date with your remote repository?
 A:One reason is that maybe you don't want pull a version that you are sure have
 problems, o maybe you don't wanna share a change
 
+Describe the differences between forks,clones,and branches, When would you use
+one instead of another?
+A; fork is when you whant to modify a repository an make your own modifications
+but always giving the credit to the creator.
+clone is when you make a copy of a repository (from GitHub or in your same
+		computer
+branches could be differents paths that one software can take,
 
